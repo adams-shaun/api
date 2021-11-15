@@ -2567,10 +2567,7 @@ spec:
                         value:
                           description: The JSON config of the object being patched.
                           type: object
-<<<<<<< HEAD
-=======
                           x-kubernetes-preserve-unknown-fields: true
->>>>>>> 2e1e4d7e... Update CRDs to v1 (#1900)
                       type: object
                   type: object
                 type: array
